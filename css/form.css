@@ -1,0 +1,70 @@
+form {
+    color: #1b242b;
+}
+
+form div {
+    margin-bottom: 5px;
+}
+
+form label {
+    float: left;
+    width: 20%;
+    min-width: 120px;
+    text-align: right;
+    padding: 5px 1em 0px 10px;
+    font-size: 1.15em;
+}
+
+form input[type="text"],
+form input[type="tel"],
+form input[type="email"],
+form textarea {
+    width: 65%;
+    line-height: 2;
+    font-size: 1.15em;
+    resize: none;
+    padding: 3px;
+    background: none;
+    margin-top:5px;
+    background-color: aliceblue;
+    border:none;
+    outline: none;
+    border-bottom: 1px solid #65728b;
+}
+
+form label[data-required]:after {
+    content: " * ";
+    display: inline-block;
+    color: red;
+    font-size: 1em;
+}
+
+form div:last-of-type {
+    text-align: center;
+    margin-top: 20px;
+}
+
+form .ui-btn {
+    padding: 4px 1em;
+}
+
+form input[type="text"]:focus,
+form input[type="tel"]:focus,
+form input[type="email"]:focus,
+form textarea:focus {
+    border:none;
+    border-bottom: 1px solid #b9b9b9;
+}
+@media screen and (min-width:300px) and (max-width:800px){
+    form input:not([type="submit"]),
+    form label, form textarea{
+        width:96%;
+        float:left;
+        margin:0 2%;
+    }
+    form{
+        float:left;
+        margin-bottom:5em;
+        width:100%;
+    }
+}

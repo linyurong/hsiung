@@ -1,0 +1,2103 @@
+/*
+* 2016-01
+* for GJ RWD design course
+* created by Hui Fang Wu
+* http://www.fionawu.url.tw/
+*/
+/*crimson*/
+/* line 34, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-100 {
+  background-color: #dc143c;
+  color: #ffffff; }
+
+/* line 35, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-90 {
+  background-color: #eb1f48;
+  color: #ffffff; }
+
+/* line 36, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-80 {
+  background-color: #ed365b;
+  color: #ffffff; }
+
+/* line 37, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-70 {
+  background-color: #ef4e6e;
+  color: #ffffff; }
+
+/* line 38, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-60 {
+  background-color: #f16581;
+  color: #ffffff; }
+
+/* line 39, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-50 {
+  background-color: #f37c94; }
+
+/* line 40, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-40 {
+  background-color: #f594a7; }
+
+/* line 41, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-30 {
+  background-color: #f7abba; }
+
+/* line 42, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-20 {
+  background-color: #fac3ce; }
+
+/* line 43, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-crimson-10 {
+  background-color: #fcdae1; }
+
+/*pink*/
+/* line 46, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-100 {
+  background-color: #db137f;
+  color: #ffffff; }
+
+/* line 47, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-90 {
+  background-color: #eb1c8c;
+  color: #ffffff; }
+
+/* line 48, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-80 {
+  background-color: #ed3498;
+  color: #ffffff; }
+
+/* line 49, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-70 {
+  background-color: #ef4ba4;
+  color: #ffffff; }
+
+/* line 50, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-60 {
+  background-color: #f163b0;
+  color: #ffffff; }
+
+/* line 51, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-50 {
+  background-color: #f37abc; }
+
+/* line 52, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-40 {
+  background-color: #f691c7; }
+
+/* line 53, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-30 {
+  background-color: #f8a9d3; }
+
+/* line 54, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-20 {
+  background-color: #f9bcdd; }
+
+/* line 55, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-pink-10 {
+  background-color: #fbd3e9; }
+
+/*indigo*/
+/* line 58, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-100 {
+  background-color: #5a009c;
+  color: #ffffff; }
+
+/* line 59, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-90 {
+  background-color: #6900b6;
+  color: #ffffff; }
+
+/* line 60, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-80 {
+  background-color: #7700cf;
+  color: #ffffff; }
+
+/* line 61, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-70 {
+  background-color: #8600e9;
+  color: #ffffff; }
+
+/* line 62, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-60 {
+  background-color: #9403ff;
+  color: #ffffff; }
+
+/* line 63, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-50 {
+  background-color: #9f1dff;
+  color: #ffffff; }
+
+/* line 64, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-40 {
+  background-color: #aa36ff;
+  color: #ffffff; }
+
+/* line 65, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-30 {
+  background-color: #b550ff; }
+
+/* line 66, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-20 {
+  background-color: #c069ff; }
+
+/* line 67, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-indigo-10 {
+  background-color: #d59cff; }
+
+/*navy*/
+/* line 70, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-100 {
+  background-color: #2b2bba;
+  color: #ffffff; }
+
+/* line 71, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-90 {
+  background-color: #3030cf;
+  color: #ffffff; }
+
+/* line 72, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-80 {
+  background-color: #4444d4;
+  color: #ffffff; }
+
+/* line 73, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-70 {
+  background-color: #5959d9;
+  color: #ffffff; }
+
+/* line 74, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-60 {
+  background-color: #6e6edd;
+  color: #ffffff; }
+
+/* line 75, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-50 {
+  background-color: #8282e2;
+  color: #ffffff; }
+
+/* line 76, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-40 {
+  background-color: #9797e7; }
+
+/* line 77, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-30 {
+  background-color: #acacec; }
+
+/* line 78, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-20 {
+  background-color: #c0c0f1; }
+
+/* line 79, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-navy-10 {
+  background-color: #d5d5f5; }
+
+/*deepBlue*/
+/* line 82, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-100 {
+  background-color: #7b3f47;
+  color: #ffffff; }
+
+/* line 83, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-90 {
+  background-color: #8c4851;
+  color: #ffffff; }
+
+/* line 84, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-80 {
+  background-color: #9d505a;
+  color: #ffffff; }
+
+/* line 85, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-70 {
+  background-color: #ab5b66;
+  color: #ffffff; }
+
+/* line 86, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-60 {
+  background-color: #b46c76;
+  color: #ffffff; }
+
+/* line 87, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-50 {
+  background-color: #bc7d86;
+  color: #ffffff; }
+
+/* line 88, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-40 {
+  background-color: #c58e95;
+  color: #ffffff; }
+
+/* line 89, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-30 {
+  background-color: #ce9fa5;
+  color: #ffffff; }
+
+/* line 90, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-20 {
+  background-color: #d6b0b5; }
+
+/* line 91, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-deepBlue-10 {
+  background-color: #e8d1d4; }
+
+/*slateBlue*/
+/* line 94, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-100 {
+  background-color: #4635b0;
+  color: #ffffff; }
+
+/* line 95, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-90 {
+  background-color: #4e3bc4;
+  color: #ffffff; }
+
+/* line 96, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-80 {
+  background-color: #5f4eca;
+  color: #ffffff; }
+
+/* line 97, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-70 {
+  background-color: #7162d0;
+  color: #ffffff; }
+
+/* line 98, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-60 {
+  background-color: #8375d6;
+  color: #ffffff; }
+
+/* line 99, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-50 {
+  background-color: #9489db; }
+
+/* line 100, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-40 {
+  background-color: #a69de1; }
+
+/* line 101, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-30 {
+  background-color: #b8b0e7; }
+
+/* line 102, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-20 {
+  background-color: #cac4ed; }
+
+/* line 103, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateBlue-10 {
+  background-color: #dbd7f3; }
+
+/*skyBlue*/
+/* line 106, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-100 {
+  background-color: #00aee4;
+  color: #ffffff; }
+
+/* line 107, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-90 {
+  background-color: #00c1fe;
+  color: #ffffff; }
+
+/* line 108, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-80 {
+  background-color: #18c8ff;
+  color: #ffffff; }
+
+/* line 109, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-70 {
+  background-color: #32ceff;
+  color: #ffffff; }
+
+/* line 110, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-60 {
+  background-color: #4bd4ff;
+  color: #ffffff; }
+
+/* line 111, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-50 {
+  background-color: #65daff; }
+
+/* line 112, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-40 {
+  background-color: #7ee0ff; }
+
+/* line 113, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-30 {
+  background-color: #98e6ff; }
+
+/* line 114, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-20 {
+  background-color: #b1edff; }
+
+/* line 115, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-skyBlue-10 {
+  background-color: #cbf3ff; }
+
+/*cyan*/
+/* line 118, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-100 {
+  background-color: #167374;
+  color: #ffffff; }
+
+/* line 119, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-90 {
+  background-color: #1a8889;
+  color: #ffffff; }
+
+/* line 120, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-80 {
+  background-color: #1e9e9f;
+  color: #ffffff; }
+
+/* line 121, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-70 {
+  background-color: #22b3b4;
+  color: #ffffff; }
+
+/* line 122, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-60 {
+  background-color: #26c8ca; }
+
+/* line 123, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-50 {
+  background-color: #31d6d8; }
+
+/* line 124, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-40 {
+  background-color: #47dbdc; }
+
+/* line 125, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-30 {
+  background-color: #5cdfe0; }
+
+/* line 126, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-20 {
+  background-color: #72e3e4; }
+
+/* line 127, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-cyan-10 {
+  background-color: #b2f0f0; }
+
+/*forestGreen*/
+/* line 130, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-100 {
+  background-color: #228b22;
+  color: #ffffff; }
+
+/* line 131, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-90 {
+  background-color: #279f27;
+  color: #ffffff; }
+
+/* line 132, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-80 {
+  background-color: #2cb42c;
+  color: #ffffff; }
+
+/* line 133, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-70 {
+  background-color: #31c831;
+  color: #ffffff; }
+
+/* line 134, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-60 {
+  background-color: #42d142; }
+
+/* line 135, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-50 {
+  background-color: #57d657; }
+
+/* line 136, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-40 {
+  background-color: #6bdb6b; }
+
+/* line 137, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-30 {
+  background-color: #80e080; }
+
+/* line 138, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-20 {
+  background-color: #94e594; }
+
+/* line 139, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-forestGreen-10 {
+  background-color: #a9eaa9; }
+
+/*seaGreen*/
+/* line 142, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-100 {
+  background-color: #37b371;
+  color: #ffffff; }
+
+/* line 143, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-90 {
+  background-color: #3fc47d;
+  color: #ffffff; }
+
+/* line 144, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-80 {
+  background-color: #53ca8b;
+  color: #ffffff; }
+
+/* line 145, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-70 {
+  background-color: #66d098;
+  color: #ffffff; }
+
+/* line 146, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-60 {
+  background-color: #7ad6a5; }
+
+/* line 147, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-50 {
+  background-color: #8ddcb2; }
+
+/* line 148, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-40 {
+  background-color: #a1e2bf; }
+
+/* line 149, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-30 {
+  background-color: #b4e8cd; }
+
+/* line 150, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-20 {
+  background-color: #c8eeda; }
+
+/* line 151, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-seaGreen-10 {
+  background-color: #dbf4e7; }
+
+/*yellowGreen*/
+/* line 154, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-100 {
+  background-color: #8ab82d;
+  color: #ffffff; }
+
+/* line 155, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-90 {
+  background-color: #99cc32;
+  color: #ffffff; }
+
+/* line 156, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-80 {
+  background-color: #a4d246;
+  color: #ffffff; }
+
+/* line 157, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-70 {
+  background-color: #aed75b;
+  color: #ffffff; }
+
+/* line 158, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-60 {
+  background-color: #b8dc6f; }
+
+/* line 159, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-50 {
+  background-color: #c2e184; }
+
+/* line 160, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-40 {
+  background-color: #cce698; }
+
+/* line 161, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-30 {
+  background-color: #d6ebad; }
+
+/* line 162, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-20 {
+  background-color: #e0f0c1; }
+
+/* line 163, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowGreen-10 {
+  background-color: #e6f3cd; }
+
+/*yellowOrange*/
+/* line 166, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-100 {
+  background-color: #ffbf00;
+  color: #ffffff; }
+
+/* line 167, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-90 {
+  background-color: #ffc51a;
+  color: #ffffff; }
+
+/* line 168, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-80 {
+  background-color: #ffcc33;
+  color: #ffffff; }
+
+/* line 169, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-70 {
+  background-color: #ffd24d;
+  color: #ffffff; }
+
+/* line 170, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-60 {
+  background-color: #ffd966; }
+
+/* line 171, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-50 {
+  background-color: #ffdf80; }
+
+/* line 172, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-40 {
+  background-color: #ffe599; }
+
+/* line 173, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-30 {
+  background-color: #ffecb3; }
+
+/* line 174, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-20 {
+  background-color: #fff2cc; }
+
+/* line 175, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-yellowOrange-10 {
+  background-color: #fff6db; }
+
+/*orange*/
+/* line 178, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-100 {
+  background-color: #ff8c00;
+  color: #ffffff; }
+
+/* line 179, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-90 {
+  background-color: #ff981a;
+  color: #ffffff; }
+
+/* line 180, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-80 {
+  background-color: #ffa333;
+  color: #ffffff; }
+
+/* line 181, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-70 {
+  background-color: #ffaf4d; }
+
+/* line 182, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-60 {
+  background-color: #ffba66; }
+
+/* line 183, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-50 {
+  background-color: #ffc680; }
+
+/* line 184, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-40 {
+  background-color: #ffd199; }
+
+/* line 185, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-30 {
+  background-color: #ffddb3; }
+
+/* line 186, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-20 {
+  background-color: #ffe8cc; }
+
+/* line 187, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orange-10 {
+  background-color: #fff3e5; }
+
+/*orangeRed*/
+/* line 190, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-100 {
+  background-color: #ff4500;
+  color: #ffffff; }
+
+/* line 191, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-90 {
+  background-color: #ff581a;
+  color: #ffffff; }
+
+/* line 192, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-80 {
+  background-color: #ff6a33;
+  color: #ffffff; }
+
+/* line 193, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-70 {
+  background-color: #ff7d4d;
+  color: #ffffff; }
+
+/* line 194, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-60 {
+  background-color: #ff8f66; }
+
+/* line 195, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-50 {
+  background-color: #ffa280; }
+
+/* line 196, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-40 {
+  background-color: #ffb599; }
+
+/* line 197, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-30 {
+  background-color: #ffc7b3; }
+
+/* line 198, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-20 {
+  background-color: #ffdacc; }
+
+/* line 199, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orangeRed-10 {
+  background-color: #ffece5; }
+
+/*gold*/
+/* line 202, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-100 {
+  background-color: #ffd700;
+  color: #121212; }
+
+/* line 203, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-90 {
+  background-color: #ffdb1a;
+  color: #121212; }
+
+/* line 204, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-80 {
+  background-color: #ffdf33;
+  color: #121212; }
+
+/* line 205, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-70 {
+  background-color: #ffe34d;
+  color: #121212; }
+
+/* line 206, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-60 {
+  background-color: #ffe766;
+  color: #121212; }
+
+/* line 207, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-50 {
+  background-color: #ffeb80;
+  color: #121212; }
+
+/* line 208, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-40 {
+  background-color: #ffef99; }
+
+/* line 209, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-30 {
+  background-color: #fff3b3; }
+
+/* line 210, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-20 {
+  background-color: #fff7cc; }
+
+/* line 211, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gold-10 {
+  background-color: #fffbe5; }
+
+/* line 212, F:/rwd-data/www/teams/css/colors-pattern.scss */
+[class*="bgc-gold"] {
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.45); }
+
+/*violet*/
+/* line 216, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-100 {
+  background-color: #ca1bca;
+  color: #ffffff; }
+
+/* line 217, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-90 {
+  background-color: #e01ee0;
+  color: #ffffff; }
+
+/* line 218, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-80 {
+  background-color: #e434e4;
+  color: #ffffff; }
+
+/* line 219, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-70 {
+  background-color: #e74be7;
+  color: #ffffff; }
+
+/* line 220, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-60 {
+  background-color: #ea61ea;
+  color: #ffffff; }
+
+/* line 221, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-50 {
+  background-color: #ed78ed;
+  color: #ffffff; }
+
+/* line 222, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-40 {
+  background-color: #f08ef0; }
+
+/* line 223, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-30 {
+  background-color: #f3a5f3; }
+
+/* line 224, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-20 {
+  background-color: #f6bbf6; }
+
+/* line 225, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violet-10 {
+  background-color: #f9d2f9; }
+
+/*violetRed*/
+/* line 228, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-100 {
+  background-color: #d0168b;
+  color: #ffffff; }
+
+/* line 229, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-90 {
+  background-color: #e7199a;
+  color: #ffffff; }
+
+/* line 230, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-80 {
+  background-color: #e930a4;
+  color: #ffffff; }
+
+/* line 231, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-70 {
+  background-color: #ec47ae;
+  color: #ffffff; }
+
+/* line 232, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-60 {
+  background-color: #ee5eb9;
+  color: #ffffff; }
+
+/* line 233, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-50 {
+  background-color: #f075c3;
+  color: #ffffff; }
+
+/* line 234, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-40 {
+  background-color: #f38ccd; }
+
+/* line 235, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-30 {
+  background-color: #f5a3d7; }
+
+/* line 236, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-20 {
+  background-color: #f8bae1; }
+
+/* line 237, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-violetRed-10 {
+  background-color: #fad1eb; }
+
+/*orchid*/
+/* line 240, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-100 {
+  background-color: #68228b;
+  color: #ffffff; }
+
+/* line 241, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-90 {
+  background-color: #77279f;
+  color: #ffffff; }
+
+/* line 242, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-80 {
+  background-color: #872cb4;
+  color: #ffffff; }
+
+/* line 243, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-70 {
+  background-color: #9631c8;
+  color: #ffffff; }
+
+/* line 244, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-60 {
+  background-color: #a142d1;
+  color: #ffffff; }
+
+/* line 245, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-50 {
+  background-color: #ab57d6;
+  color: #ffffff; }
+
+/* line 246, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-40 {
+  background-color: #b66bdb; }
+
+/* line 247, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-30 {
+  background-color: #c080e0; }
+
+/* line 248, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-20 {
+  background-color: #ca94e5; }
+
+/* line 249, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-orchid-10 {
+  background-color: #d4a9ea; }
+
+/*brown*/
+/* line 252, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-100 {
+  background-color: #a52a2a;
+  color: #ffffff; }
+
+/* line 253, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-90 {
+  background-color: #b92f2f;
+  color: #ffffff; }
+
+/* line 254, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-80 {
+  background-color: #cc3636;
+  color: #ffffff; }
+
+/* line 255, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-70 {
+  background-color: #d14a4a;
+  color: #ffffff; }
+
+/* line 256, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-60 {
+  background-color: #d65f5f; }
+
+/* line 257, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-50 {
+  background-color: #db7373; }
+
+/* line 258, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-40 {
+  background-color: #e18787; }
+
+/* line 259, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-30 {
+  background-color: #e69c9c; }
+
+/* line 260, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-20 {
+  background-color: #ebb0b0; }
+
+/* line 261, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-brown-10 {
+  background-color: #f0c4c4; }
+
+/*tan*/
+/* line 265, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-100 {
+  background-color: #b88747;
+  color: #ffffff; }
+
+/* line 266, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-90 {
+  background-color: #bf9359;
+  color: #ffffff; }
+
+/* line 267, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-80 {
+  background-color: #c69f6c;
+  color: #ffffff; }
+
+/* line 268, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-70 {
+  background-color: #cdab7e; }
+
+/* line 269, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-60 {
+  background-color: #d4b791; }
+
+/* line 270, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-50 {
+  background-color: #dbc3a3; }
+
+/* line 271, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-40 {
+  background-color: #e3cfb5; }
+
+/* line 272, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-30 {
+  background-color: #eadbc8; }
+
+/* line 273, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-20 {
+  background-color: #f1e7da; }
+
+/* line 274, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-tan-10 {
+  background-color: #f8f3ed; }
+
+/*gray*/
+/* line 277, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-100 {
+  background-color: #808080;
+  color: #ffffff; }
+
+/* line 278, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-90 {
+  background-color: #8d8d8d;
+  color: #ffffff; }
+
+/* line 279, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-80 {
+  background-color: #9a9a9a;
+  color: #ffffff; }
+
+/* line 280, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-70 {
+  background-color: #a6a6a6; }
+
+/* line 281, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-60 {
+  background-color: #b3b3b3; }
+
+/* line 282, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-50 {
+  background-color: silver; }
+
+/* line 283, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-40 {
+  background-color: #cccccc; }
+
+/* line 284, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-30 {
+  background-color: #d9d9d9; }
+
+/* line 285, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-20 {
+  background-color: #e6e6e6; }
+
+/* line 286, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-gray-10 {
+  background-color: #f3f3f3; }
+
+/*slateGray*/
+/* line 289, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-100 {
+  background-color: #647381;
+  color: #ffffff; }
+
+/* line 290, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-90 {
+  background-color: #6f808f;
+  color: #ffffff; }
+
+/* line 291, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-80 {
+  background-color: #7d8d9b;
+  color: #ffffff; }
+
+/* line 292, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-70 {
+  background-color: #8c99a6; }
+
+/* line 293, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-60 {
+  background-color: #9aa6b1; }
+
+/* line 294, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-50 {
+  background-color: #a9b3bc; }
+
+/* line 295, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-40 {
+  background-color: #b7bfc7; }
+
+/* line 296, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-30 {
+  background-color: #c5ccd2; }
+
+/* line 297, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-20 {
+  background-color: #d4d9dd; }
+
+/* line 298, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-slateGray-10 {
+  background-color: #e2e5e9; }
+
+/*red*/
+/* line 301, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-100 {
+  background-color: #bc1717;
+  color: #ffffff; }
+
+/* line 302, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-90 {
+  background-color: #d31a1a;
+  color: #ffffff; }
+
+/* line 303, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-80 {
+  background-color: #e42222;
+  color: #ffffff; }
+
+/* line 304, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-70 {
+  background-color: #e73939;
+  color: #ffffff; }
+
+/* line 305, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-60 {
+  background-color: #ea4f4f; }
+
+/* line 306, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-50 {
+  background-color: #ec6666; }
+
+/* line 307, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-40 {
+  background-color: #ef7d7d; }
+
+/* line 308, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-30 {
+  background-color: #f29494; }
+
+/* line 309, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-20 {
+  background-color: #f5aaaa; }
+
+/* line 310, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-red-10 {
+  background-color: #f7c1c1; }
+
+/*black*/
+/* line 313, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-100 {
+  background-color: #000000;
+  color: #ffffff; }
+
+/* line 314, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-90 {
+  background-color: #0d0d0d;
+  color: #ffffff; }
+
+/* line 315, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-80 {
+  background-color: #1a1a1a;
+  color: #ffffff; }
+
+/* line 316, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-70 {
+  background-color: #262626;
+  color: #ffffff; }
+
+/* line 317, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-60 {
+  background-color: #333333; }
+
+/* line 318, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-50 {
+  background-color: #404040; }
+
+/* line 319, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-40 {
+  background-color: #4d4d4d; }
+
+/* line 320, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-30 {
+  background-color: #595959; }
+
+/* line 321, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-20 {
+  background-color: #666666; }
+
+/* line 322, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-black-10 {
+  background-color: #737373; }
+
+/*white*/
+/* line 325, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.bgc-white {
+  background-color: #ffffff; }
+
+/*below font colors setting*/
+/*crimson*/
+/* line 356, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-100 {
+  color: #dc143c; }
+
+/* line 357, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-90 {
+  color: #eb1f48; }
+
+/* line 358, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-80 {
+  color: #ed365b; }
+
+/* line 359, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-70 {
+  color: #ef4e6e; }
+
+/* line 360, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-60 {
+  color: #f16581; }
+
+/* line 361, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-50 {
+  color: #f37c94; }
+
+/* line 362, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-40 {
+  color: #f594a7; }
+
+/* line 363, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-30 {
+  color: #f7abba; }
+
+/* line 364, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-20 {
+  color: #fac3ce; }
+
+/* line 365, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-crimson-10 {
+  color: #fcdae1; }
+
+/*pink*/
+/* line 368, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-100 {
+  color: #e51284; }
+
+/* line 369, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-90 {
+  color: #ee2390; }
+
+/* line 370, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-80 {
+  color: #f03a9c; }
+
+/* line 371, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-70 {
+  color: #f152a8; }
+
+/* line 372, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-60 {
+  color: #f36ab4; }
+
+/* line 373, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-50 {
+  color: #f581c0; }
+
+/* line 374, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-40 {
+  color: #f799cc; }
+
+/* line 375, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-30 {
+  color: #f9b1d8; }
+
+/* line 376, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-20 {
+  color: #fbc8e4; }
+
+/* line 377, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-pink-10 {
+  color: #fde0ef; }
+
+/*indigo*/
+/* line 379, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-100 {
+  color: #4B0082; }
+
+/* line 380, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-90 {
+  color: #5a009b; }
+
+/* line 381, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-80 {
+  color: #6800b5; }
+
+/* line 382, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-70 {
+  color: #7700ce; }
+
+/* line 383, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-60 {
+  color: #8600e8; }
+
+/* line 384, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-50 {
+  color: #9402ff; }
+
+/* line 385, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-40 {
+  color: #9f1cff; }
+
+/* line 386, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-30 {
+  color: #aa35ff; }
+
+/* line 387, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-20 {
+  color: #b54fff; }
+
+/* line 388, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-indigo-10 {
+  color: #bf68ff; }
+
+/*navy*/
+/* line 391, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-100 {
+  color: #2b2bba; }
+
+/* line 392, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-90 {
+  color: #3030cf; }
+
+/* line 393, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-80 {
+  color: #4444d4; }
+
+/* line 394, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-70 {
+  color: #5959d9; }
+
+/* line 395, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-60 {
+  color: #6e6edd; }
+
+/* line 396, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-50 {
+  color: #8282e2; }
+
+/* line 397, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-40 {
+  color: #9797e7; }
+
+/* line 398, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-30 {
+  color: #acacec; }
+
+/* line 399, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-20 {
+  color: #c0c0f1; }
+
+/* line 400, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-navy-10 {
+  color: #d5d5f5; }
+
+/*deepBlue*/
+/* line 403, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-100 {
+  color: #191970; }
+
+/* line 404, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-90 {
+  color: #1e1e85; }
+
+/* line 405, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-80 {
+  color: #22229a; }
+
+/* line 406, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-70 {
+  color: #2727af; }
+
+/* line 407, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-60 {
+  color: #2c2cc3; }
+
+/* line 408, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-50 {
+  color: #3636d2; }
+
+/* line 409, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-40 {
+  color: #4b4bd7; }
+
+/* line 410, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-30 {
+  color: #6060dc; }
+
+/* line 411, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-20 {
+  color: #7575e0; }
+
+/* line 412, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-deepBlue-10 {
+  color: #8a8ae5; }
+
+/*slateBlue*/
+/* line 415, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-100 {
+  color: #1b81e5; }
+
+/* line 416, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-90 {
+  color: #328ee8; }
+
+/* line 417, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-80 {
+  color: #499aea; }
+
+/* line 418, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-70 {
+  color: #60a7ed; }
+
+/* line 419, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-60 {
+  color: #77b4ef; }
+
+/* line 420, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-50 {
+  color: #8dc0f2; }
+
+/* line 421, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-40 {
+  color: #a4cdf5; }
+
+/* line 422, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-30 {
+  color: #bbdaf7; }
+
+/* line 423, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-20 {
+  color: #d2e6fa; }
+
+/* line 424, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateBlue-10 {
+  color: #e9f3fc; }
+
+/*skyBlue*/
+/* line 427, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-100 {
+  color: #00aee6; }
+
+/* line 428, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-90 {
+  color: #00c1ff; }
+
+/* line 429, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-80 {
+  color: #1ac7ff; }
+
+/* line 430, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-70 {
+  color: #34cdff; }
+
+/* line 431, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-60 {
+  color: #4dd4ff; }
+
+/* line 432, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-50 {
+  color: #66daff; }
+
+/* line 433, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-40 {
+  color: #80e0ff; }
+
+/* line 434, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-30 {
+  color: #9ae6ff; }
+
+/* line 435, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-20 {
+  color: #b3ecff; }
+
+/* line 436, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-skyBlue-10 {
+  color: #ccf3ff; }
+
+/*cyan*/
+/* line 439, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-100 {
+  color: #167374; }
+
+/* line 440, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-90 {
+  color: #1a8889; }
+
+/* line 441, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-80 {
+  color: #1e9e9f; }
+
+/* line 442, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-70 {
+  color: #22b3b4; }
+
+/* line 443, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-60 {
+  color: #26c8ca; }
+
+/* line 444, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-50 {
+  color: #31d6d8; }
+
+/* line 445, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-40 {
+  color: #47dbdc; }
+
+/* line 446, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-30 {
+  color: #5cdfe0; }
+
+/* line 447, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-20 {
+  color: #72e3e4; }
+
+/* line 448, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-cyan-10 {
+  color: #87e7e8; }
+
+/*forestGreen*/
+/* line 451, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-100 {
+  color: #228b22; }
+
+/* line 452, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-90 {
+  color: #279f27; }
+
+/* line 453, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-80 {
+  color: #2cb42c; }
+
+/* line 454, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-70 {
+  color: #31c831; }
+
+/* line 455, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-60 {
+  color: #42d142; }
+
+/* line 456, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-50 {
+  color: #57d657; }
+
+/* line 457, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-40 {
+  color: #6bdb6b; }
+
+/* line 458, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-30 {
+  color: #80e080; }
+
+/* line 459, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-20 {
+  color: #94e594; }
+
+/* line 460, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-forestGreen-10 {
+  color: #a9eaa9; }
+
+/*seaGreen*/
+/* line 463, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-100 {
+  color: #37b371; }
+
+/* line 464, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-90 {
+  color: #3fc47d; }
+
+/* line 465, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-80 {
+  color: #53ca8b; }
+
+/* line 466, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-70 {
+  color: #66d098; }
+
+/* line 467, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-60 {
+  color: #7ad6a5; }
+
+/* line 468, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-50 {
+  color: #8ddcb2; }
+
+/* line 469, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-40 {
+  color: #a1e2bf; }
+
+/* line 470, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-30 {
+  color: #b4e8cd; }
+
+/* line 471, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-20 {
+  color: #c8eeda; }
+
+/* line 472, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-seaGreen-10 {
+  color: #dbf4e7; }
+
+/*yellowGreen*/
+/* line 475, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-100 {
+  color: #8ab82d; }
+
+/* line 476, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-90 {
+  color: #99cc32; }
+
+/* line 477, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-80 {
+  color: #a4d246; }
+
+/* line 478, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-70 {
+  color: #aed75b; }
+
+/* line 479, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-60 {
+  color: #b8dc6f; }
+
+/* line 480, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-50 {
+  color: #c2e184; }
+
+/* line 481, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-40 {
+  color: #cce698; }
+
+/* line 482, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-30 {
+  color: #d6ebad; }
+
+/* line 483, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-20 {
+  color: #e0f0c1; }
+
+/* line 484, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowGreen-10 {
+  color: #ebf5d6; }
+
+/*yellowOrange*/
+/* line 487, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-100 {
+  color: #ffbf00; }
+
+/* line 488, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-90 {
+  color: #ffc51a; }
+
+/* line 489, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-80 {
+  color: #ffcc33; }
+
+/* line 490, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-70 {
+  color: #ffd24d; }
+
+/* line 491, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-60 {
+  color: #ffd966; }
+
+/* line 492, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-50 {
+  color: #ffdf80; }
+
+/* line 493, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-40 {
+  color: #ffe599; }
+
+/* line 494, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-30 {
+  color: #ffecb3; }
+
+/* line 495, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-20 {
+  color: #fff2cc; }
+
+/* line 496, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-yellowOrange-10 {
+  color: #fff9e5; }
+
+/*orange*/
+/* line 499, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-100 {
+  color: #ffa500; }
+
+/* line 500, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-90 {
+  color: #ffae1a; }
+
+/* line 501, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-80 {
+  color: #ffb733; }
+
+/* line 502, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-70 {
+  color: #ffc04d; }
+
+/* line 503, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-60 {
+  color: #ffc966; }
+
+/* line 504, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-50 {
+  color: #ffd280; }
+
+/* line 505, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-40 {
+  color: #ffdb99; }
+
+/* line 506, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-30 {
+  color: #ffe4b3; }
+
+/* line 507, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-20 {
+  color: #ffedcc; }
+
+/* line 508, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orange-10 {
+  color: #fff6e5; }
+
+/*orangeRed*/
+/* line 511, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-100 {
+  color: #ff4500; }
+
+/* line 512, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-90 {
+  color: #ff581a; }
+
+/* line 513, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-80 {
+  color: #ff6a33; }
+
+/* line 514, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-70 {
+  color: #ff7d4d; }
+
+/* line 515, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-60 {
+  color: #ff8f66; }
+
+/* line 516, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-50 {
+  color: #ffa280; }
+
+/* line 517, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-40 {
+  color: #ffb599; }
+
+/* line 518, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-30 {
+  color: #ffc7b3; }
+
+/* line 519, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-20 {
+  color: #ffdacc; }
+
+/* line 520, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orangeRed-10 {
+  color: #ffece5; }
+
+/*gold*/
+/* line 523, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-100 {
+  color: #ffd700; }
+
+/* line 524, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-90 {
+  color: #ffdb1a; }
+
+/* line 525, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-80 {
+  color: #ffdf33; }
+
+/* line 526, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-70 {
+  color: #ffe34d; }
+
+/* line 527, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-60 {
+  color: #ffe766; }
+
+/* line 528, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-50 {
+  color: #ffeb80; }
+
+/* line 529, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-40 {
+  color: #ffef99; }
+
+/* line 530, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-30 {
+  color: #fff3b3; }
+
+/* line 531, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-20 {
+  color: #fff7cc; }
+
+/* line 532, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gold-10 {
+  color: #fffbe5; }
+
+/*violet*/
+/* line 535, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-100 {
+  color: #e435e4; }
+
+/* line 536, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-90 {
+  color: #e74be7; }
+
+/* line 537, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-80 {
+  color: #ea62ea; }
+
+/* line 538, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-70 {
+  color: #ed78ed; }
+
+/* line 539, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-60 {
+  color: #f08ff0; }
+
+/* line 540, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-50 {
+  color: #f3a5f3; }
+
+/* line 541, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-40 {
+  color: #f6bcf6; }
+
+/* line 542, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-30 {
+  color: #f9d2f9; }
+
+/* line 543, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-20 {
+  color: #fce9fc; }
+
+/* line 544, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violet-10 {
+  color: white; }
+
+/*violetRed*/
+/* line 547, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-100 {
+  color: #d0168b; }
+
+/* line 548, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-90 {
+  color: #e7199a; }
+
+/* line 549, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-80 {
+  color: #e930a4; }
+
+/* line 550, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-70 {
+  color: #ec47ae; }
+
+/* line 551, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-60 {
+  color: #ee5eb9; }
+
+/* line 552, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-50 {
+  color: #f075c3; }
+
+/* line 553, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-40 {
+  color: #f38ccd; }
+
+/* line 554, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-30 {
+  color: #f5a3d7; }
+
+/* line 555, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-20 {
+  color: #f8bae1; }
+
+/* line 556, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-violetRed-10 {
+  color: #fad1eb; }
+
+/*orchid*/
+/* line 559, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-100 {
+  color: #b549d0; }
+
+/* line 560, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-90 {
+  color: #bd5dd5; }
+
+/* line 561, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-80 {
+  color: #c572da; }
+
+/* line 562, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-70 {
+  color: #ce86e0; }
+
+/* line 563, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-60 {
+  color: #d69ae5; }
+
+/* line 564, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-50 {
+  color: #deaeea; }
+
+/* line 565, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-40 {
+  color: #e6c3ef; }
+
+/* line 566, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-30 {
+  color: #efd7f5; }
+
+/* line 567, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-20 {
+  color: #f7ebfa; }
+
+/* line 568, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-orchid-10 {
+  color: white; }
+
+/*brown*/
+/* line 571, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-100 {
+  color: #a52a2a; }
+
+/* line 572, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-90 {
+  color: #b92f2f; }
+
+/* line 573, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-80 {
+  color: #cc3636; }
+
+/* line 574, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-70 {
+  color: #d14a4a; }
+
+/* line 575, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-60 {
+  color: #d65f5f; }
+
+/* line 576, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-50 {
+  color: #db7373; }
+
+/* line 577, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-40 {
+  color: #e18787; }
+
+/* line 578, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-30 {
+  color: #e69c9c; }
+
+/* line 579, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-20 {
+  color: #ebb0b0; }
+
+/* line 580, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-brown-10 {
+  color: #f0c4c4; }
+
+/*tan*/
+/* line 584, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-100 {
+  color: #b88747; }
+
+/* line 585, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-90 {
+  color: #bf9359; }
+
+/* line 586, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-80 {
+  color: #c69f6c; }
+
+/* line 587, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-70 {
+  color: #cdab7e; }
+
+/* line 588, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-60 {
+  color: #d4b791; }
+
+/* line 589, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-50 {
+  color: #dbc3a3; }
+
+/* line 590, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-40 {
+  color: #e3cfb5; }
+
+/* line 591, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-30 {
+  color: #eadbc8; }
+
+/* line 592, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-20 {
+  color: #f1e7da; }
+
+/* line 593, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-tan-10 {
+  color: #f8f3ed; }
+
+/*gray*/
+/* line 596, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-100 {
+  color: #808080; }
+
+/* line 597, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-90 {
+  color: #8d8d8d; }
+
+/* line 598, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-80 {
+  color: #9a9a9a; }
+
+/* line 599, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-70 {
+  color: #a6a6a6; }
+
+/* line 600, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-60 {
+  color: #b3b3b3; }
+
+/* line 601, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-50 {
+  color: silver; }
+
+/* line 602, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-40 {
+  color: #cccccc; }
+
+/* line 603, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-30 {
+  color: #d9d9d9; }
+
+/* line 604, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-20 {
+  color: #e6e6e6; }
+
+/* line 605, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-gray-10 {
+  color: #f3f3f3; }
+
+/*slateGray*/
+/* line 608, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-100 {
+  color: #7e8c9b; }
+
+/* line 609, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-90 {
+  color: #8c99a6; }
+
+/* line 610, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-80 {
+  color: #9ba6b1; }
+
+/* line 611, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-70 {
+  color: #a9b2bc; }
+
+/* line 612, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-60 {
+  color: #b7bfc8; }
+
+/* line 613, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-50 {
+  color: #c6ccd3; }
+
+/* line 614, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-40 {
+  color: #d4d9de; }
+
+/* line 615, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-30 {
+  color: #e3e6e9; }
+
+/* line 616, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-20 {
+  color: #f1f2f4; }
+
+/* line 617, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-slateGray-10 {
+  color: white; }
+
+/*red*/
+/* line 620, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-100 {
+  color: #e60000; }
+
+/* line 621, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-90 {
+  color: red; }
+
+/* line 622, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-80 {
+  color: #ff1a1a; }
+
+/* line 623, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-70 {
+  color: #ff3434; }
+
+/* line 624, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-60 {
+  color: #ff4d4d; }
+
+/* line 625, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-50 {
+  color: #ff6666; }
+
+/* line 626, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-40 {
+  color: #ff8080; }
+
+/* line 627, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-30 {
+  color: #ff9a9a; }
+
+/* line 628, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-20 {
+  color: #ffb3b3; }
+
+/* line 629, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-red-10 {
+  color: #ffcccc; }
+
+/*black*/
+/* line 632, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-100 {
+  color: #000000; }
+
+/* line 633, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-90 {
+  color: #0d0d0d; }
+
+/* line 634, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-80 {
+  color: #1a1a1a; }
+
+/* line 635, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-70 {
+  color: #262626; }
+
+/* line 636, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-60 {
+  color: #333333; }
+
+/* line 637, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-50 {
+  color: #404040; }
+
+/* line 638, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-40 {
+  color: #4d4d4d; }
+
+/* line 639, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-30 {
+  color: #595959; }
+
+/* line 640, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-20 {
+  color: #666666; }
+
+/* line 641, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-black-10 {
+  color: #737373; }
+
+/*white*/
+/* line 644, F:/rwd-data/www/teams/css/colors-pattern.scss */
+.text-white {
+  color: #ffffff; }
+
+/*# sourceMappingURL=colors-pattern.css.map */
